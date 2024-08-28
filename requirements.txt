@@ -6,5 +6,5 @@ idna==2.7
 requests==2.19.1
 setuptools==69.0.3
 smmap==5.0.1
-urllib3==1.23
+urllib3==1.26.19
 wheel==0.44.0
