@@ -1,0 +1,22 @@
+[
+    {
+        "city": "Faketown",
+        "population": 123456
+    },
+    {
+        "city": "Sampleville",
+        "population": 789012
+    },
+    {
+        "city": "Mock City",
+        "population": 345678
+    },
+    {
+        "city": "Demo Town",
+        "population": 901234
+    },
+    {
+        "city": "Testopolis",
+        "population": 567890
+    }
+]
