@@ -11,3 +11,7 @@ with open('cities.json') as f:
 # random number between 0 and the length of the list of cities
 rndCity = random.randint(0, len(cities) - 1)
 print(cities[rndCity]['city'])
+
+# Some useless code
+def useless(someNumber):
+    someNumber += 1
